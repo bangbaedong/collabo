@@ -6,3 +6,4 @@ Github README.md 같이 만들기
 
 - 배성호
 - 호랑이
+- 이모지
